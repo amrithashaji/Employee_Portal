@@ -1,5 +1,5 @@
 ﻿1. git clone https://github.com/amrithashaji/Employee_portal.git
-2. cd  Employee
+2. cd  Employee_portal
 3. virtualenv env -p python3.6
 4. source env/bin/activate
 5. pip install -r requirement.txt
